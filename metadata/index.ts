@@ -1,6 +1,6 @@
 /** 文本 */
-export const siteName = 'Sun'
-export const siteShortName = 'Sun'
+export const siteName = '参宿ag'
+export const siteShortName = '参宿ag'
 export const siteDescription = '记录、分析知识和畅想的地方'
 
 /** 文档所在目录 */
